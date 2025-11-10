@@ -231,7 +231,8 @@ Kullandığınız porta göre aşağıdaki adresleri tarayıcınızda açın:
 2. **CTRL + C** tuşlarına basın
 3. Model otomatik olarak HuggingFace'e yüklenecektir
 
-![Model Yükleme](https://github.com/user-attachments/assets/926075d0-f351-49cd-97f4-77e686991494)
+![Model Yükleme](![511965399-926075d0-f351-49cd-97f4-77e686991494](https://github.com/user-attachments/assets/ae4470b0-1cab-4c45-8779-35a6fc75b0af)
+)
 
 ### Puan Takibi:
 
