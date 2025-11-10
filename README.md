@@ -287,7 +287,7 @@ export PATH=$PATH:/root/.local/bin
 
 ---
 
-**Hazırlayan:** [OshVanK](https://github.com/OshVanK)  
+**Hazırlayan:** [OshVanK](https://github.com/Edsny1)  
 **Lisans:** MIT  
 **Son Güncelleme:** Kasım 2025
 
