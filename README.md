@@ -151,11 +151,13 @@ uv run run.py --port 3001
 - Token'ı yapıştırdığınızda **ekranda görünmeyecektir** - bu normaldir
 - Kurulum birkaç dakika sürebilir, sabırlı olun
 
-![Token Girişi](https://github.com/user-attachments/assets/b17cd961-c42b-436f-a74c-b7bc5e36851f)
+![Token Girişi](https://github.com/user-attachments/assets/b98ffc3d-856d-48cf-b76b-1da08152296e)
+
 
 Kurulum tamamlandığında şu mesajı göreceksiniz:
 
-![Kurulum Tamamlandı](https://github.com/user-attachments/assets/9fbce663-bbe9-48ef-88ce-566dc41f378c)
+![Kurulum Tamamlandı](https://github.com/user-attachments/assets/688948bd-2dff-45ad-8755-b146cb8daa24)
+
 
 ---
 
@@ -186,7 +188,8 @@ ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3001:localhost:3001 -L 8001
 ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3000:localhost:3000 -L 8001:localhost:8001 root@192.168.1.100
 ```
 
-![SSH Örneği](https://github.com/user-attachments/assets/202ab744-ec79-4de5-b573-cc3029896a50)
+![SSH Örneği](https://github.com/user-attachments/assets/24aab541-c9f4-419f-b248-2e4a94bdc9b9)
+
 
 ### Bağlantı Adımları:
 
@@ -194,7 +197,7 @@ ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3000:localhost:3000 -L 8001
 2. VPS şifrenizi girin (şifre yazarken ekranda görünmez)
 3. Başarılı bağlantı sonrası şu ekranı göreceksiniz:
 
-![Başarılı Bağlantı](https://github.com/user-attachments/assets/08484943-d8eb-43b7-9d57-054e0ff89218)
+![Başarılı Bağlantı](https://github.com/user-attachments/assets/444b4e2e-5326-477e-b4a6-3fdf054b90e1)
 
 ---
 
@@ -207,7 +210,7 @@ Kullandığınız porta göre aşağıdaki adresleri tarayıcınızda açın:
 - Port 3000 kullanıyorsanız: **http://localhost:3000**
 - Port 3001 kullanıyorsanız: **http://localhost:3001**
 
-![CodeAssist Arayüzü](https://github.com/user-attachments/assets/04c31b01-43ee-476c-8fcd-ea0fe1fbf624)
+![CodeAssist Arayüzü](https://github.com/user-attachments/assets/6e30e5e2-7f9e-47a4-a38e-0a198a0d806f)
 
 ### Çözüm Gönderme:
 
@@ -217,9 +220,8 @@ Kullandığınız porta göre aşağıdaki adresleri tarayıcınızda açın:
 - **En az 2-3 çözüm gönderin**
 - ⚠️ **Önemli:** Çözümleri direkt kopyala-yapıştır yapmayın, kendi çözümlerinizi yazın
 
-![Çözüm Gönderme](https://github.com/user-attachments/assets/8f9d3031-61e5-44e1-ab5c-c1a927c23415)
+![Çözüm Gönderme](https://github.com/user-attachments/assets/cfd100e4-8cd1-40e7-9974-22c9bdb8a2d2)
 
----
 
 ## ✅ Kurulumu Tamamlama
 
@@ -231,8 +233,8 @@ Kullandığınız porta göre aşağıdaki adresleri tarayıcınızda açın:
 2. **CTRL + C** tuşlarına basın
 3. Model otomatik olarak HuggingFace'e yüklenecektir
 
-![Model Yükleme](![511965399-926075d0-f351-49cd-97f4-77e686991494](https://github.com/user-attachments/assets/ae4470b0-1cab-4c45-8779-35a6fc75b0af)
-)
+![Model Yükleme](https://github.com/user-attachments/assets/5188ebe9-9c9f-4825-a161-81585ba9a776)
+
 
 ### Puan Takibi:
 
