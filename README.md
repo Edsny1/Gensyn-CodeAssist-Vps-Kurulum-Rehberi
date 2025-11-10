@@ -9,7 +9,7 @@
 - **Disk**: Minimum 10GB SSD
 - **İşletim Sistemi**: Ubuntu 20.04/22.04 LTS
 
-> 💡 **İpucu**: Uygun fiyatlı VPS sunucular için [servarica.com](https://servarica.com) adresini ziyaret edebilirsiniz.
+
 
 ---
 
